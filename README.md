@@ -1,5 +1,5 @@
 Waffle Nuker is a discord server nuker made by Blockrock Inc.
-Owner of Blockrock: Rennex#1126 (Tag number will only valid in README but NOT in the nuker itself)
+Owner of Blockrock: Rennex#0001 (Tag number will only valid in README but NOT in the nuker itself)
 
 Note: This Nuker is made with python and it is 100% safe to use. We use discord module to do the nuking stuff. You can submit this to any virus checker and it will be flagged as safe file.
 
